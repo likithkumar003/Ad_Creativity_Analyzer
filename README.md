@@ -32,3 +32,7 @@ Database:
     SQLite database ad_analyzer.db to store analysis history and user feedback.
 
 By following these instructions and using the provided requirements.txt file, you can set up and run the Ad Creativity Analyzer application smoothly.
+
+
+![Screenshot 2024-07-04 161322](https://github.com/likithkumar003/LIKITH_ZOCKET/assets/133403175/73de3192-3056-4c1b-83a1-a24368337cfb)
+
