@@ -19,7 +19,7 @@ Upload and Analyze Images:
 **Oject Detection:YOLOv8
 **TexExtraction:EasyOCR
 **Sentiment Analysis:VADER
-**Promotional ad or non promotional ad:Transformer model
+**Promotional ad or non promotional ad:Transformer model(interesting part of this project)
 
 Code Organization
 
