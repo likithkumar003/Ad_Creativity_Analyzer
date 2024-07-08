@@ -47,10 +47,13 @@ uploded example image:
 ![Screenshot 2024-07-04 161701](https://github.com/likithkumar003/LIKITH_ZOCKET/assets/133403175/91c1d327-1eb7-4fdd-96f2-6fe7d84b10c3)
 
 Can see whether the add is creative or not:
+
 ![Screenshot 2024-07-04 161731](https://github.com/likithkumar003/LIKITH_ZOCKET/assets/133403175/df73cc58-e267-43cd-b1a4-f754feca2ee2)
 
 Analysis:
+
 ![Screenshot 2024-07-04 161829](https://github.com/likithkumar003/LIKITH_ZOCKET/assets/133403175/cbe268a4-b61a-4cb1-bcc6-57ab7d1b9071)
 
 Database:
+
 ![Screenshot 2024-07-04 161842](https://github.com/likithkumar003/LIKITH_ZOCKET/assets/133403175/3abb1491-e2d4-44d0-98aa-ec46dbfc7171)
