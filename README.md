@@ -1,4 +1,4 @@
-# LIKITH_ZOCKET
+# LIKITH_AD CREATIVITY ANALYZER
 
 ## Instructions to Run the Application
 
